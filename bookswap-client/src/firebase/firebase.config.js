@@ -5,7 +5,7 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCgQwYoIoQZISybPvdK-iXE2A-phEXvR8M",
+  apiKey: "YOUR-API-KEY-HERE",
   authDomain: "bookswap-book-inventory.firebaseapp.com",
   projectId: "bookswap-book-inventory",
   storageBucket: "bookswap-book-inventory.firebasestorage.app",
